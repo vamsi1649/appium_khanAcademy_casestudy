@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-12T22:32:55 IST" name="Default suite" finished-at="2022-12-12T22:37:00 IST" duration-ms="245136">
+    <groups>
+    </groups>
+    <test started-at="2022-12-12T22:32:55 IST" name="Default test" finished-at="2022-12-12T22:37:00 IST" duration-ms="245136">
+      <class name="khanAcademy.KhanAcademy_hybrid">
+        <test-method is-config="true" signature="BT()[pri:0, instance:khanAcademy.KhanAcademy_hybrid@54e1c68b]" started-at="2022-12-12T22:32:55 IST" name="BT" finished-at="2022-12-12T22:33:33 IST" duration-ms="38094" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BT -->
+        <test-method signature="sign_in()[pri:0, instance:khanAcademy.KhanAcademy_hybrid@54e1c68b]" started-at="2022-12-12T22:33:33 IST" name="sign_in" finished-at="2022-12-12T22:33:57 IST" duration-ms="23951" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sign_in -->
+        <test-method signature="language()[pri:1, instance:khanAcademy.KhanAcademy_hybrid@54e1c68b]" started-at="2022-12-12T22:33:57 IST" name="language" finished-at="2022-12-12T22:34:41 IST" duration-ms="43701" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- language -->
+        <test-method signature="explore()[pri:2, instance:khanAcademy.KhanAcademy_hybrid@54e1c68b]" started-at="2022-12-12T22:34:41 IST" name="explore" finished-at="2022-12-12T22:35:25 IST" duration-ms="44459" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- explore -->
+        <test-method signature="search()[pri:3, instance:khanAcademy.KhanAcademy_hybrid@54e1c68b]" started-at="2022-12-12T22:35:25 IST" name="search" finished-at="2022-12-12T22:36:08 IST" duration-ms="42414" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method signature="Bookmarks()[pri:4, instance:khanAcademy.KhanAcademy_hybrid@54e1c68b]" started-at="2022-12-12T22:36:08 IST" name="Bookmarks" finished-at="2022-12-12T22:36:44 IST" duration-ms="36102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Bookmarks -->
+        <test-method signature="signout()[pri:5, instance:khanAcademy.KhanAcademy_hybrid@54e1c68b]" started-at="2022-12-12T22:36:44 IST" name="signout" finished-at="2022-12-12T22:37:00 IST" duration-ms="15549" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signout -->
+      </class> <!-- khanAcademy.KhanAcademy_hybrid -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
